@@ -1,0 +1,104 @@
+body
+{
+  font-family: 'Source Code Pro', monospace;
+}
+
+.container
+{
+  min-height: 200px;
+  max-height: 450px;
+  min-width: 400px;
+  max-width: 550px;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  vertical-align: center;
+}
+
+.contents
+{
+  display: inline-block;
+  height: 70%;
+  min-height: 200px;
+  max-height: 450px;
+  min-width: 400px;
+  max-width: 550px;
+  text-align: center;
+  padding: 30px;
+  background-color: #ddd;
+  border-radius: 50px;
+  vertical-align: center;
+}
+
+.feedback_container
+{
+  height: 40px;
+  width: 95px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 20px;
+  text-align: center;
+}
+
+.feedback_contents
+{
+  display: inline-block;
+  height: 40px;
+  width: 95px;
+  text-align: center;
+  background-color: #ddd;
+  border-radius: 20px;
+  vertical-align: center;
+}
+
+.donate_container
+{
+  height: 30px;
+  width: 95px;
+  position: absolute;
+  top: 50px;
+  right: 0;
+  margin: 20px;
+  text-align: center;
+}
+
+.donate_contents
+{
+  display: inline-block;
+  height: 40px;
+  width: 95px;
+  text-align: center;
+  background-color: #ddd;
+  border-radius: 20px;
+  vertical-align: center;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+div.donate_contents {
+  font-size: 13px;
+}
+
+div.feedback_contents {
+  font-size: 13px;
+}
+
+div.contents p {
+  font-size: 18px;
+}
