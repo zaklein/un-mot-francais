@@ -1,6 +1,6 @@
 {
     "name": "Un mot français",
-    "version": "0.3",
+    "version": "1.0",
     "description": "Un mot français",
     "manifest_version": 2,
     "chrome_url_overrides": {

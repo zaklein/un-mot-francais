@@ -37,44 +37,37 @@ body
 .feedback_container
 {
   height: 40px;
-  width: 95px;
+  width: 60px;
   position: absolute;
   top: 0;
   right: 0;
-  margin: 20px;
-  text-align: center;
+  margin-right: 20px;
 }
 
 .feedback_contents
 {
-  display: inline-block;
   height: 40px;
-  width: 95px;
-  text-align: center;
-  background-color: #ddd;
-  border-radius: 20px;
-  vertical-align: center;
+  width: 60px;
+  text-align: right;
 }
 
-.donate_container
+.github_container
 {
-  height: 30px;
-  width: 95px;
+  height: 40px;
+  width: 60px;
   position: absolute;
-  top: 50px;
+  top: 80px;
   right: 0;
   margin: 20px;
   text-align: center;
 }
 
-.donate_contents
+.github_contents
 {
   display: inline-block;
   height: 40px;
-  width: 95px;
-  text-align: center;
-  background-color: #ddd;
-  border-radius: 20px;
+  width: 60px;
+  text-align: right;
   vertical-align: center;
 }
 
@@ -91,12 +84,8 @@ a {
   text-decoration: none;
 }
 
-div.donate_contents {
-  font-size: 13px;
-}
-
 div.feedback_contents {
-  font-size: 13px;
+  font-size: 42px;
 }
 
 div.contents p {
