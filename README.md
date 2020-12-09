@@ -6,4 +6,4 @@
 
 I'd be thrilled to have contributions from anyone interested in the project :D
 
-Feel free to reach out via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfolRHOWRcs4OTx8LnvRejNtIO1Ut5BSSOvWvNvY0ktSqOxyQ/viewform), or by creating a pull request.
+Feel free to reach out via [this form](https://docs.google.com/forms/d/e/1FAIpQLSfolRHOWRcs4OTx8LnvRejNtIO1Ut5BSSOvWvNvY0ktSqOxyQ/viewform), or by posting in the 'Discussions' area.
