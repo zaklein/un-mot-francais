@@ -1,4 +1,4 @@
-![icon test](icon.png)
+![icon test](assets/icon.png)
 
 # Un mot français
 
